@@ -1,0 +1,1 @@
+D:\ООП\Snake\Snake\bin\Debug\Snake.exe.config
